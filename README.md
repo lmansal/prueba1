@@ -1,4 +1,4 @@
-> [IMPORTANT]
+> [!IMPORTANT]
 >
 > Nota importante
 
