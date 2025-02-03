@@ -1,3 +1,7 @@
+> [IMPORTANT]
+>
+> Nota importante
+
 **Resumen de Programación**
 
 ## Índice
